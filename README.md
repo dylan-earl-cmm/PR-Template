@@ -117,7 +117,7 @@
 ## Testing
 
 <details open><summary></summary>
-  
+
 ### Automated E2E Tests
 
 > Run all automated E2E tests locally before submitting this PR.
@@ -142,8 +142,7 @@
 > [!IMPORTANT]
 > Smoke tests should be run in the staging environment after this PR is merged to `main`.
 
-| [Smoke test case documentation](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/2086141993/USP+Smoke+Testing+-+Lower+Environments) |
-| ------------------------------------------------------------------------------------------------------------------------------------------ |
+<kbd>[Smoke test case documentation](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/2086141993/USP+Smoke+Testing+-+Lower+Environments)</kbd>
 
 - [ ] Smoke Tests Ran
 
