@@ -1,7 +1,5 @@
 ## Summary
 
-<details open> <summary><h2></h2></summary>
-
 > Link to related issues/jira ticket
 
 > Add your summary:
@@ -40,11 +38,7 @@
 - [ ] Updated mermaid diagrams
 - [ ] N/A
 
-</details>
-
 ## Risk
-
-<details open> <summary></summary>
 
 ### Overall risk level
 
@@ -97,11 +91,7 @@
 
 > If so, how does the code handle that?
 
-</details>
-
 ## Additional Approvals
-
-<details open><summary></summary>
 
 > If needed, gather the appropriate approvals
 
@@ -112,11 +102,7 @@
 - [ ] UX
 - [ ] N/A
 
-</details>
-
 ## Testing
-
-<details open><summary></summary>
 
 ### Automated E2E Tests
 
@@ -159,8 +145,6 @@
 ## Rollback Plan
 
 > If any issues arise, how will we rollback?
-
-</details>
 
 ## Manager Checklist
 
