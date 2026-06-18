@@ -111,7 +111,7 @@ Does this change add functionality that requires special handling of test cases?
 - [ ] Changes made and documentation updated
 - [ ] N/A
 
-## Deployment, Post Deployment, and Rollbacks
+## Release and Rollout
 
 > How will you verify your change works without regression in production?
 
