@@ -106,7 +106,7 @@ Does this change add functionality that requires special handling of test cases?
 
 ### Playwright Workflows
 
-> If Playwright workflows were modified or new workflows were added, update the corresponding <kbd>[documentation](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/3602874409/USP+Springboard+Automated+E2E+Test+Workflows)<kbd>
+If Playwright workflows were modified or new workflows were added, update the corresponding <kbd>[documentation](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/3602874409/USP+Springboard+Automated+E2E+Test+Workflows)<kbd>
 
 - [ ] Changes made and documentation updated
 - [ ] N/A
