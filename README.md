@@ -1,15 +1,11 @@
 ## Summary
 
-> Link to related issues/jira ticket
-
 > Add your summary:
+
+> Link to related issues, jira ticket, and/or related PR's:
 
 > [!NOTE]
 > If this is a UI change, please include some screenshots/animated gif
-
-#### Related PRs
-
-> List relevant pull requests if needed:
 
 #### Documentation
 
@@ -38,9 +34,7 @@ If this PR alters any of the workflows, please update the mermaid diagrams in th
 - [ ] Updated mermaid diagrams
 - [ ] N/A
 
-## Risk
-
-### Overall risk level
+## Risks
 
 <b>Overall risk level:<b>
 
@@ -51,8 +45,6 @@ If this PR alters any of the workflows, please update the mermaid diagrams in th
 
 > Summary of the risk:
 
-### PHI Risk
-
 <b>Are there any PHI ramifications of this PR?<b>
 
 - [ ] 🔴 High PHI Risk
@@ -60,14 +52,12 @@ If this PR alters any of the workflows, please update the mermaid diagrams in th
 - [ ] 🟡 Low PHI Risk
 - [ ] 🟢 Minimal PHI Risk
 
-> If so, point out mitigation and what risk is brought on by this deployment:
+> If so, what <b>risk<b> is brought on by this deployment, and what is the <b>mitigation plan<b>:
 
 Are new UI elements containing PHI masked for Datadog?
 
 - [ ] Yes
 - [ ] N/A
-
-### Security Risk
 
 <b>Are there any security risks?<b>
 
@@ -76,7 +66,7 @@ Are new UI elements containing PHI masked for Datadog?
 - [ ] 🟡 Low Security Risk
 - [ ] 🟢 No Security Risk
 
-> If so, point out mitigations and what risk is brought on by this deployment:
+> If so, what <b>risk<b> is brought on by this deployment, and what is the <b>mitigation plan<b>:
 
 ### Special Considerations
 
@@ -86,16 +76,6 @@ Are new UI elements containing PHI masked for Datadog?
 - [ ] No
 
 > If so, how does the code handle that?
-
-## Additional Approvals
-
-> If needed, gather the appropriate approvals
-
-<kbd>[Approval guidelines](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/1830617182/UX+and+Product+Sign-off+Guidelines)</kbd>
-
-- [ ] Product
-- [ ] UX
-- [ ] N/A
 
 ## Testing
 
@@ -131,6 +111,16 @@ Are new UI elements containing PHI masked for Datadog?
 
 > If any issues arise, how will we rollback?
 
+## Additional Approvals
+
+> If needed, gather the appropriate approvals
+
+<kbd>[Approval guidelines](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/1830617182/UX+and+Product+Sign-off+Guidelines)</kbd>
+
+- [ ] Product
+- [ ] UX
+- [ ] N/A
+
 ## Manager Checklist
 
 - [ ] All PR comments have been addressed
@@ -144,7 +134,3 @@ Are new UI elements containing PHI masked for Datadog?
 - [ ] PR creator has filled out the ITGC testing comment to include appropriate testing evidence
 - [ ] Rollback plan is in place
 - [ ] Confirm that the change is desired to go to production
-
-```
-
-```
