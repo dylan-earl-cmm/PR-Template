@@ -11,7 +11,7 @@
 > [!NOTE]
 > If this is a UI change, please include some screenshots/animated gif
 
-#### Documentation
+### Documentation
 
 Have you done something here that, if documented, would be beneficial to the team?
 
@@ -30,7 +30,7 @@ Have you done something here that, if documented, would be beneficial to the tea
 
 </details>
 
-#### Architecture Diagrams
+### Architecture Diagrams
 
 If this PR alters any of the workflows, please update the mermaid diagrams in the docs folder
 
