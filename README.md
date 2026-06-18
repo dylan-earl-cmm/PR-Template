@@ -35,7 +35,7 @@ If this PR alters any of the workflows, please update the mermaid diagrams in th
 
 ## Risks
 
-<b>Overall Risk</b> level:
+<h3>Overall Risk</h3> level:
 
 - [ ] 🔴 High
 - [ ] 🟠 Medium
@@ -58,7 +58,7 @@ Are new UI elements containing PHI masked for Datadog?
 - [ ] Yes
 - [ ] N/A
 
-<b>Are there any security risks?</b>
+Are there any <b>security risks?</b>
 
 - [ ] 🔴 High Security Risk
 - [ ] 🟠 Medium Security Risk
