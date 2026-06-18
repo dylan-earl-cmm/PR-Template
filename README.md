@@ -101,6 +101,7 @@ Does this change add functionality that requires special handling of test cases?
 
 > [!IMPORTANT]
 > Smoke tests should be run in the staging environment after this PR is merged to `main`. <kbd>[documentation](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/2086141993/USP+Smoke+Testing+-+Lower+Environments)<kbd>
+
 - [ ] Smoke Tests Ran
 
 ### Playwright Workflows
@@ -126,7 +127,7 @@ Does this change add functionality that requires special handling of test cases?
 
 ## Additional Approvals
 
-> If needed, gather the appropriate approvals <kbd>[Approval guidelines](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/1830617182/UX+and+Product+Sign-off+Guidelines)</kbd>
+If needed, gather the appropriate approvals <kbd>[Approval guidelines](https://covermymeds.atlassian.net/wiki/spaces/USP/pages/1830617182/UX+and+Product+Sign-off+Guidelines)</kbd>
 
 - [ ] Product
 - [ ] UX
